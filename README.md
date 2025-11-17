@@ -4,8 +4,7 @@
 💻 Aspiring Software & Web Developer
 🐧 Linux Enthusiast
 
-<p align="center"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450"/> </p> <p align="center"> <img src="https://your-profile-picture-url.com" width="150" style="border-radius:50%"/> </p>
-
+<p align="center"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450"/> </p> 
 🚀 About Me
 
 👨‍🎓 I’m currently studying Computer Science (1st year)
