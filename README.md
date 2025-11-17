@@ -8,16 +8,8 @@ A **Computer Science Student (Freshman)**
 and a **PC & Mobile Software/Hardware Technician** with **5+ years of experience**.
 
 <details>
-<p><strong><summary> 🎧 Currently Listening To </summary></strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)]()
 
 </details>
-
-![profile views](https://komarev.com/ghpvc/?username=abdullahahmedshehatah-cmd&style=flat&color=orange&label=PROFILE+VIEWS)
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/abdullahahmedshehatah-cmd&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-
-</div>
 
 ---
 
