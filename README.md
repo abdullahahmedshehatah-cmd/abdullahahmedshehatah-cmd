@@ -1,8 +1,8 @@
 🌟 Hi there! I'm Abdulah Ahmed
 
-<h1>🎓First-Year Computer Science Student</h1></br>
-<h1>💻Aspiring Software & Web Developer</h1></br>
-<h1>🐧Linux Enthusiast</h1>
+<h4>🎓First-Year Computer Science Student</h4></br>
+<h4>💻Aspiring Software & Web Developer</h4></br>
+<h4>🐧Linux Enthusiast</h4>
 
 <p align="center"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450"/> </p> 
 🚀 About Me
