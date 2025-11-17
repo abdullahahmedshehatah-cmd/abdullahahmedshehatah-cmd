@@ -9,7 +9,7 @@
 
 👨‍🎓 I’m currently studying Computer Science (1st year)
 
-🌱 Learning HTML, CSS, JavaScript, Python
+🌱 Learning HTML, CSS, JavaScript, Python, Problem Solving with C++
 
 🐧 Passionate about Linux and enjoy exploring it, troubleshooting, and experimenting with different distros
 
