@@ -1,111 +1,131 @@
-# 🌟 Hi there! I'm Abdullah Ahmed  
+<h1 align="center">Hi 👋, I'm Abdullah Ahmed</h1>
 
-🎓 First-Year Computer Science Student  
-💻 Aspiring Software, Database & Web Developer  
-🗄️ SQL Server & Database Design Enthusiast  
-🐧 Linux Enthusiast  
+<h3 align="center">
+Computer Science Student | SQL Server & Database Developer | Backend Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="420"/>
 </p>
 
-# 🚀 About Me
+---
 
-👨‍🎓 I’m currently studying Computer Science (1st Year)
+## 🚀 About Me
 
-🌱 Currently learning and improving my skills in:
-- HTML
-- CSS
-- JavaScript
-- Python
-- C++
-- SQL Server
-- Database Design
-- Problem Solving
+🎓 First-Year Computer Science Student passionate about technology and software development  
 
-🗄️ Built database projects using:
-- SQL Server
-- ERD Design
-- Relational Database Modeling
-- Data Mapping
-- Normalization
-
-📚 Interested in:
+💻 Interested in:
 - Backend Development
 - Database Systems
-- Software Development
+- Software Engineering
 - Cybersecurity
 - Linux Systems
 
-🐧 Passionate about Linux and enjoy exploring, troubleshooting, and experimenting with different distros
+🗄️ Skilled in building and designing relational databases using:
+- SQL Server
+- ERD Modeling
+- Database Normalization
+- Data Mapping
+- SQL Queries & Constraints
 
-🎯 Goal: Become a skilled Full-Stack & Backend Developer
+🌱 Currently improving my skills in:
+- C++
+- Python
+- JavaScript
+- SQL Server
+- Problem Solving
+- Backend Development
 
-🤝 Open to learning, collaborating, and building beginner-friendly projects
+🐧 Linux enthusiast who enjoys exploring distributions, troubleshooting systems, and learning advanced terminal usage
 
-⚡ Fun fact: I love exploring technology and continuously learning new skills
+🎯 My goal is to become a professional Backend & Full-Stack Developer
 
-# 🛠️ Technologies & Tools
+---
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+## 🛠️ Technologies & Tools
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<p align="left">
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
 
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
+
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="45" height="45"/>
+
 </p>
 
-# 🧠 Skills
+---
 
-- SQL Server Database Design
-- Entity Relationship Diagram (ERD)
-- Relational Database Modeling
-- Data Mapping
-- Database Normalization
-- Writing SQL Queries
-- Problem Solving with C++
-- Basic Frontend Development
-- Linux Troubleshooting
+## 🧠 Technical Skills
 
-# 📂 Featured Projects
+✔️ SQL Server Database Design  
+✔️ Entity Relationship Diagram (ERD)  
+✔️ Database Normalization  
+✔️ Relational Database Modeling  
+✔️ Data Mapping  
+✔️ SQL Queries & Constraints  
+✔️ Problem Solving with C++  
+✔️ Linux Troubleshooting  
+✔️ Git & GitHub  
 
-## 🏥 Pharmacy Management System
-A complete SQL Server database project for managing:
-- Medicines
-- Customers
-- Suppliers
-- Sales
-- Payments
-- Complaints
-- Requests
+---
 
-### Features:
+## 📂 Featured Project
+
+### 🏥 Pharmacy Management System
+
+A complete SQL Server database project designed to manage pharmacy operations efficiently.
+
+### Main Features:
+- Medicine Management
+- Customer Management
+- Supplier Management
+- Sales & Payments Tracking
+- Inventory Monitoring
+- Complaint & Request System
 - ERD Design
-- Data Mapping
-- Relationships & Constraints
-- SQL Queries
-- Inventory Management
+- Relational Database Modeling
+- SQL Constraints & Relationships
 
-# 📊 My GitHub Stats
+### Technologies Used:
+- SQL Server
+- SQL
+- ERDPlus
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahahmedshehatah-cmd&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahahmedshehatah-cmd&show_icons=true&theme=tokyonight" width="48%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahahmedshehatah-cmd&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahahmedshehatah-cmd&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
-# 📫 Connect With Me
+---
 
-- GitHub: https://github.com/abdullahahmedshehatah-cmd
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/abdullahahmedshehatah-cmd" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="35" width="35" />
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ Always learning, building, and improving
+</p>
